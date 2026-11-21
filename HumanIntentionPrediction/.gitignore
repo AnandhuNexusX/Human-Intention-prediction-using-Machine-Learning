@@ -1,0 +1,21 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Large datasets
+*.csv
+
+# Trained ML models
+*.pkl
+*.joblib
+
+# Temporary files
+*.log
